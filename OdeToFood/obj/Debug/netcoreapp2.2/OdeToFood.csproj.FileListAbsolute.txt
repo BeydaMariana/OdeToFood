@@ -1,0 +1,14 @@
+C:\Users\Beyda\Documents\GitHub\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.2\OdeToFood.deps.json
+C:\Users\Beyda\Documents\GitHub\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.2\OdeToFood.runtimeconfig.json
+C:\Users\Beyda\Documents\GitHub\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.2\OdeToFood.runtimeconfig.dev.json
+C:\Users\Beyda\Documents\GitHub\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.2\OdeToFood.dll
+C:\Users\Beyda\Documents\GitHub\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.2\OdeToFood.pdb
+C:\Users\Beyda\Documents\GitHub\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.2\OdeToFood.csprojAssemblyReference.cache
+C:\Users\Beyda\Documents\GitHub\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.2\OdeToFood.csproj.CoreCompileInputs.cache
+C:\Users\Beyda\Documents\GitHub\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.2\OdeToFood.RazorAssemblyInfo.cache
+C:\Users\Beyda\Documents\GitHub\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.2\OdeToFood.RazorAssemblyInfo.cs
+C:\Users\Beyda\Documents\GitHub\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.2\OdeToFood.AssemblyInfoInputs.cache
+C:\Users\Beyda\Documents\GitHub\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.2\OdeToFood.AssemblyInfo.cs
+C:\Users\Beyda\Documents\GitHub\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.2\OdeToFood.RazorTargetAssemblyInfo.cache
+C:\Users\Beyda\Documents\GitHub\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.2\OdeToFood.dll
+C:\Users\Beyda\Documents\GitHub\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.2\OdeToFood.pdb
