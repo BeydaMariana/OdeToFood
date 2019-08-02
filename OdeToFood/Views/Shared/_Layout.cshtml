@@ -8,7 +8,9 @@
         @RenderBody()
     </div>
     <footer>
-        @RenderSection("footer", required:true)
+        @RenderSection("footer", required:false)
+        @*@await Component.InvokeAsync("Greeter");*@
+        <vc:greeter></vc:greeter>
     </footer>
     @*<div>
         @DateTime.Now.Year
