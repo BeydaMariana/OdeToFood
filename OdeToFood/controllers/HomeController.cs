@@ -1,21 +1,26 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using OdeToFood.Models;
 using OdeToFood.Services;
 using OdeToFood.ViewModels;
 
 namespace OdeToFood.controllers
 {
+    [Authorize]
     public class HomeController : Controller
     {
         private IRestaurantData _restaurantData;
         private IGreeter _greeter;
 
+        
         public HomeController(IRestaurantData restaurantData,
                               IGreeter greeter)
         {
             _restaurantData = restaurantData;
             _greeter = greeter;
         }
+
+        [AllowAnonymous]
         public IActionResult Index()
         {
             var model = new HomeIndexViewModel();
